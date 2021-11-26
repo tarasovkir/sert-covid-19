@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Портал государственных услуг Российской Федерации</title>
+    <link rel="shortcut icon" href="https://gu-st.ru/st/img/favicon.ico" type="image/gif" />
+    
+    
+  </head>
+  <head>
+  
+<style>
+.pic {
+text-align: center; /* Выравнивания картинки по центру в html */ 
+}
+</style>
+</head>
+<body>
+<p class="pic"><img src="https://i.imgur.com/5lLFfz6.png" alt="pic"></p>
+</body>
+
+
+</html>
